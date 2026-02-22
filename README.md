@@ -12,5 +12,5 @@ Chrome DevTools MCP（mcp市场可以直接找到，添加即可），lark-mcp�
 填写到`.trae\skills\wechat-typesetting\config\secrets.md。
 然后随便找个查IP地址的网站（比如https://ip138.com/），把本机IP地址，填写到微信开发者平台后台的API IP白名单里面。
 `微信开发者平台后台：https://developers.weixin.qq.com/
-
-
+![image](https://github.com/allentry/wechat-skills/blob/main/data/1.jpg))
+![image](https://github.com/allentry/wechat-skills/blob/main/data/2.jpg))
